@@ -1,5 +1,5 @@
 ### Hello,
-I'm a software engineer based in Seoul, working on agentic systems. I build tools for coding agents and explore how they fit into everyday software development. Alongside my own projects, I contribute to open-source tools, with an interest in making them easier to use and more reliable.
+I'm a software engineer based in Seoul, working on agentic systems. I build tools for coding agents and explore how they fit into everyday software development. I'm particular about the tools I use. If something keeps getting in my way, I'd rather build my own than get used to it.
 
 **Projects :**<br>
 [IRI](https://www.jbaehova.com/detail/iri): A Korean voice conversation sandbox for children.<br>
