@@ -1,5 +1,7 @@
 ### Hello,
-I'm a software engineer based in Seoul, working on agentic systems.
+I'm a software engineer based in Seoul, working on agentic systems.<br>
+I build tools for agents and occasionally remind them what the tools are for.<br>
+Less busywork, more debugging. We're calling that progress.
 
 **Projects :**<br>
 [IRI](https://www.jbaehova.com/detail/iri): A Korean voice conversation sandbox for children.<br>
