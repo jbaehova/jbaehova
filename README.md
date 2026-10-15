@@ -1,5 +1,5 @@
 ### Hello,
-I'm a software engineer based in Seoul, working on agentic systems. I build tools for coding agents and explore how they fit into everyday software development. Lately, I've been exploring how agents coordinate and how we can make their work visible. That curiosity also shows up in projects around local knowledge search and voice interfaces. I like having room to follow an idea through the details and let the project change as I learn more about it.
+I'm a software engineer based in Seoul. I like having room to follow an idea through the details and let the project change as I learn more about it.
 
 **Contributions :**<br>
 [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)<br>
