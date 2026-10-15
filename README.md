@@ -1,6 +1,5 @@
 ### Hello,
-I'm a software engineer based in Seoul. I like having room to follow an idea through the details and let the project change as I learn more about it.
-
+I'm a software engineer based in Seoul.
 **Contributions :**<br>
 [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)<br>
 [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)<br>
