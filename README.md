@@ -1,5 +1,6 @@
 ### Hello,
 I'm a software engineer based in Seoul.
+
 **Contributions :**<br>
 [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex)<br>
 [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)<br>
